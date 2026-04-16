@@ -1,0 +1,1185 @@
+{
+  "sourceFile": "Pack_RSE_ISO26000_PRO.xlsx",
+  "sheetCount": 25,
+  "sections": [
+    {
+      "id": "section_01_dashboard_rse_2025",
+      "name": "Dashboard_RSE_2025",
+      "rowCountRaw": 37,
+      "fields": [
+        {
+          "key": "indicateur",
+          "label": "Indicateur"
+        },
+        {
+          "key": "valeur_2025",
+          "label": "Valeur 2025"
+        },
+        {
+          "key": "cible",
+          "label": "Cible"
+        },
+        {
+          "key": "statut",
+          "label": "Statut"
+        },
+        {
+          "key": "mois",
+          "label": "Mois"
+        },
+        {
+          "key": "kwh",
+          "label": "kWh"
+        }
+      ]
+    },
+    {
+      "id": "section_02_01_accueil_guide",
+      "name": "01-Accueil & Guide",
+      "rowCountRaw": 93,
+      "fields": [
+        {
+          "key": "ventilation_salari_s",
+          "label": "• Ventilation salariés"
+        },
+        {
+          "key": "ok",
+          "label": "OK"
+        },
+        {
+          "key": "49",
+          "label": "49"
+        },
+        {
+          "key": "0_96078431372549022",
+          "label": "0.96078431372549022"
+        },
+        {
+          "key": "cr_er_faire",
+          "label": "à créer / à faire"
+        }
+      ]
+    },
+    {
+      "id": "section_03_1_1_inventaire_des_pi_ces",
+      "name": "1.1 - Inventaire des pièces",
+      "rowCountRaw": 100,
+      "fields": [
+        {
+          "key": "section",
+          "label": "Section"
+        },
+        {
+          "key": "sous_section_pi_ce",
+          "label": "Sous-section / Pièce"
+        },
+        {
+          "key": "type",
+          "label": "Type"
+        },
+        {
+          "key": "chemin_d_acc_s_lien",
+          "label": "Chemin d'accès / Lien"
+        }
+      ]
+    },
+    {
+      "id": "section_04_02_registre_du_personnel",
+      "name": "02-Registre du personnel",
+      "rowCountRaw": 46,
+      "fields": [
+        {
+          "key": "nom",
+          "label": "Nom"
+        },
+        {
+          "key": "pr_nom",
+          "label": "Prénom"
+        },
+        {
+          "key": "f_h",
+          "label": "F / H"
+        },
+        {
+          "key": "poste",
+          "label": "Poste"
+        },
+        {
+          "key": "date_d_entr_e",
+          "label": "Date d'entrée"
+        },
+        {
+          "key": "date_de_sortie",
+          "label": "Date de sortie"
+        },
+        {
+          "key": "statut",
+          "label": "Statut"
+        },
+        {
+          "key": "email",
+          "label": "Email"
+        },
+        {
+          "key": "t_l_phone",
+          "label": "Téléphone"
+        },
+        {
+          "key": "ann_e_de_naissance",
+          "label": "Année de naissance"
+        },
+        {
+          "key": "age",
+          "label": "AGE"
+        }
+      ]
+    },
+    {
+      "id": "section_05_03_ventilation_salari_s",
+      "name": "03-Ventilation salariés",
+      "rowCountRaw": 35,
+      "fields": [
+        {
+          "key": "type_de_contrat",
+          "label": "Type de contrat"
+        },
+        {
+          "key": "nombre_de_salari_s_effectif_ou_etp",
+          "label": "Nombre de Salariés \n(effectif ou ETP)"
+        },
+        {
+          "key": "field",
+          "label": "%"
+        }
+      ]
+    },
+    {
+      "id": "section_06_04_plan_de_formation",
+      "name": "04-Plan de formation",
+      "rowCountRaw": 53,
+      "fields": [
+        {
+          "key": "nom",
+          "label": "Nom"
+        },
+        {
+          "key": "poste",
+          "label": "Poste"
+        },
+        {
+          "key": "besoins_de_formation",
+          "label": "Besoins de formation"
+        },
+        {
+          "key": "formation_pr_vue",
+          "label": "Formation prévue"
+        },
+        {
+          "key": "date_pr_vue",
+          "label": "Date prévue"
+        },
+        {
+          "key": "date_r_alis_e",
+          "label": "Date réalisée"
+        },
+        {
+          "key": "budget",
+          "label": "Budget (€)"
+        },
+        {
+          "key": "statut",
+          "label": "Statut"
+        }
+      ]
+    },
+    {
+      "id": "section_07_05_indicateurs_sociaux",
+      "name": "05-Indicateurs sociaux",
+      "rowCountRaw": 78,
+      "fields": [
+        {
+          "key": "ann_e",
+          "label": "Année"
+        },
+        {
+          "key": "effectif",
+          "label": "Effectif"
+        },
+        {
+          "key": "absent_isme",
+          "label": "Absentéisme (%)"
+        },
+        {
+          "key": "turnover",
+          "label": "Turnover (%)"
+        },
+        {
+          "key": "nb_accidents",
+          "label": "Nb accidents"
+        }
+      ]
+    },
+    {
+      "id": "section_08_06_consommations",
+      "name": "06-Consommations",
+      "rowCountRaw": 32,
+      "fields": [
+        {
+          "key": "ann_e",
+          "label": "Année"
+        },
+        {
+          "key": "mois",
+          "label": "Mois"
+        },
+        {
+          "key": "nergie_kwh",
+          "label": "Énergie (kWh)"
+        },
+        {
+          "key": "eau_m",
+          "label": "Eau (m³)"
+        },
+        {
+          "key": "mati_res_kg",
+          "label": "Matières (kg)"
+        }
+      ]
+    },
+    {
+      "id": "section_09_07_d_chets",
+      "name": "07-Déchets",
+      "rowCountRaw": 53,
+      "fields": [
+        {
+          "key": "mois",
+          "label": "Mois"
+        },
+        {
+          "key": "type_de_d_chet",
+          "label": "Type de déchet"
+        },
+        {
+          "key": "quantit_kg",
+          "label": "Quantité (kg)"
+        },
+        {
+          "key": "fili_re_de_traitement",
+          "label": "Filière de traitement"
+        },
+        {
+          "key": "recycl",
+          "label": "% Recyclé"
+        }
+      ]
+    },
+    {
+      "id": "section_10_08_bilan_carbone",
+      "name": "08-Bilan carbone",
+      "rowCountRaw": 28,
+      "fields": [
+        {
+          "key": "scope",
+          "label": "Scope"
+        },
+        {
+          "key": "intitul",
+          "label": "Intitulé"
+        },
+        {
+          "key": "total_location_based_tco2e",
+          "label": "Total Location-based (tCO2e)"
+        },
+        {
+          "key": "co2_tco2e",
+          "label": "CO2 (tCO2e)"
+        },
+        {
+          "key": "ch4_tco2e",
+          "label": "CH4 (tCO2e)"
+        },
+        {
+          "key": "n2o_tco2e",
+          "label": "N2O (tCO2e)"
+        },
+        {
+          "key": "autres_gaz_tco2e",
+          "label": "Autres gaz (tCO2e)"
+        },
+        {
+          "key": "co2_b_tco2e",
+          "label": "CO2 b (tCO2e)"
+        },
+        {
+          "key": "total_market_based_tco2e",
+          "label": "Total Market-based (tCO2e)"
+        }
+      ]
+    },
+    {
+      "id": "section_11_09_mobilit_durable",
+      "name": "09-Mobilité durable",
+      "rowCountRaw": 33,
+      "fields": [
+        {
+          "key": "nom",
+          "label": "Nom"
+        },
+        {
+          "key": "transport",
+          "label": "Transport"
+        },
+        {
+          "key": "distance_km",
+          "label": "Distance_km"
+        },
+        {
+          "key": "tt_jours_an",
+          "label": "TT_jours_an"
+        },
+        {
+          "key": "jours_site",
+          "label": "Jours_site"
+        },
+        {
+          "key": "co2_train",
+          "label": "CO2_train"
+        },
+        {
+          "key": "co2_metro",
+          "label": "CO2_metro"
+        },
+        {
+          "key": "co2_voiture",
+          "label": "CO2_voiture"
+        },
+        {
+          "key": "co2_total",
+          "label": "CO2_total"
+        }
+      ]
+    },
+    {
+      "id": "section_12_10_valuation_fournisseurs",
+      "name": "10-Évaluation fournisseurs",
+      "rowCountRaw": 95,
+      "fields": [
+        {
+          "key": "coordonn_es",
+          "label": "Coordonnées"
+        },
+        {
+          "key": "email",
+          "label": "Email:"
+        },
+        {
+          "key": "objectif_indicateur",
+          "label": "Objectif/Indicateur"
+        },
+        {
+          "key": "t_l_phone",
+          "label": "Téléphone:"
+        },
+        {
+          "key": "commentaire",
+          "label": "Commentaire"
+        }
+      ]
+    },
+    {
+      "id": "section_13_11_satisfaction_clients",
+      "name": "11-Satisfaction clients",
+      "rowCountRaw": 27,
+      "fields": [
+        {
+          "key": "horodateur",
+          "label": "Horodateur"
+        },
+        {
+          "key": "quel_est_votre_lien_avec_resocom",
+          "label": "Quel est votre lien avec RESOCOM ?"
+        },
+        {
+          "key": "depuis_combien_de_temps_collaborez_vous_avec_resocom",
+          "label": "Depuis combien de temps collaborez-vous avec RESOCOM ?"
+        },
+        {
+          "key": "quelle_est_votre_secteur_d_activit",
+          "label": "Quelle est votre secteur d’activité ?"
+        },
+        {
+          "key": "connaissez_vous_la_politique_rse_de_resocom",
+          "label": "Connaissez-vous la politique RSE de RESOCOM ?"
+        },
+        {
+          "key": "comment_avez_vous_eu_connaissance_des_engagements_rse_de_resocom",
+          "label": "Comment avez-vous eu connaissance des engagements RSE de RESOCOM ?"
+        },
+        {
+          "key": "comment_valuez_vous_l_int_gration_de_la_rse_dans_les_activit_s_de_resocom_1_pas_du_tout_int_gr_5_compl_tement_int_gr",
+          "label": "Comment évaluez-vous l’intégration de la RSE dans les activités de RESOCOM ?\n(1= Pas du tout intégré / 5 = Complètement intégré)"
+        },
+        {
+          "key": "quels_sont_selon_vous_les_points_forts_de_resocom_en_mati_re_de_rse_cochez_jusqu_3_r_ponses",
+          "label": "Quels sont, selon vous, les points forts de RESOCOM en matière de RSE ? (Cochez jusqu’à 3 réponses)"
+        },
+        {
+          "key": "quels_aspects_de_la_rse_resocom_devrait_tre_am_liorer",
+          "label": "Quels aspects de la RSE RESOCOM devrait être améliorer ?"
+        },
+        {
+          "key": "pensez_vous_que_resocom_est_transparent_dans_ses_relations_commerciales",
+          "label": "Pensez-vous que RESOCOM est transparent dans ses relations commerciales ?"
+        },
+        {
+          "key": "avez_vous_d_j_rencontr_des_pratiques_non_conformes_aux_engagements_thiques_de_resocom",
+          "label": "Avez-vous déjà rencontré des pratiques non conformes aux engagements éthiques de RESOCOM ?"
+        },
+        {
+          "key": "si_oui_laquelle",
+          "label": "Si oui, laquelle ?"
+        },
+        {
+          "key": "pensez_vous_que_resocom_communique_de_mani_re_claire_et_r_guli_re_sur_ses_engagements_thiques_et_rse",
+          "label": "Pensez-vous que RESOCOM communique de manière claire et régulière sur ses engagements éthiques et RSE ?"
+        },
+        {
+          "key": "selon_vous_resocom_met_il_en_place_des_actions_concr_tes_pour_limiter_son_impact_environnemental",
+          "label": "Selon vous, RESOCOM met-il en place des actions concrètes pour limiter son impact environnemental ?"
+        },
+        {
+          "key": "quels_engagements_environnementaux_jugez_vous_les_plus_pertinents_pour_resocom",
+          "label": "Quels engagements environnementaux jugez-vous les plus pertinents pour RESOCOM ?"
+        },
+        {
+          "key": "avez_vous_des_suggestions_pour_renforcer_l_engagement_environnemental_de_resocom",
+          "label": "Avez-vous des suggestions pour renforcer l’engagement environnemental de RESOCOM ?"
+        },
+        {
+          "key": "pensez_vous_que_resocom_favorise_un_environnement_de_travail_inclusif_et_quitable",
+          "label": "Pensez-vous que RESOCOM favorise un environnement de travail inclusif et équitable ?"
+        },
+        {
+          "key": "avez_vous_per_u_des_actions_concr_tes_en_faveur_de_la_diversit_et_de_l_inclusion_chez_resocom",
+          "label": "Avez-vous perçu des actions concrètes en faveur de la diversité et de l’inclusion chez RESOCOM ?"
+        },
+        {
+          "key": "quelles_initiatives_d_engagement_soci_tal_devraient_tre_d_velopp_es",
+          "label": "Quelles initiatives d’engagement sociétal devraient être développées ?"
+        },
+        {
+          "key": "comment_valuez_vous_la_communication_de_resocom_sur_ses_engagements_rse",
+          "label": "Comment évaluez-vous la communication de RESOCOM sur ses engagements RSE ?"
+        },
+        {
+          "key": "quel_canal_pr_f_rez_vous_pour_suivre_les_engagements_rse_de_resocom",
+          "label": "Quel canal préférez-vous pour suivre les engagements RSE de RESOCOM ?"
+        },
+        {
+          "key": "avez_vous_d_j_t_impliqu_e_dans_une_initiative_rse_de_resocom",
+          "label": "Avez-vous déjà été impliqué(e) dans une initiative RSE de RESOCOM ?"
+        },
+        {
+          "key": "si_oui_laquelle_2",
+          "label": "Si oui, laquelle ?"
+        },
+        {
+          "key": "selon_vous_quels_sont_les_trois_plus_grands_d_fis_rse_auxquels_resocom_devrait_s_attaquer_dans_les_prochaines_ann_es",
+          "label": "Selon vous, quels sont les trois plus grands défis RSE auxquels RESOCOM devrait s’attaquer dans les prochaines années ?"
+        },
+        {
+          "key": "avez_vous_des_suggestions_sp_cifiques_pour_renforcer_l_engagement_rse_de_resocom",
+          "label": "Avez-vous des suggestions spécifiques pour renforcer l’engagement RSE de RESOCOM ?"
+        }
+      ]
+    },
+    {
+      "id": "section_14_12_tra_abilit_produits",
+      "name": "12-Traçabilité produits",
+      "rowCountRaw": 30,
+      "fields": [
+        {
+          "key": "45782",
+          "label": "45782"
+        },
+        {
+          "key": "resoscan",
+          "label": "RESOSCAN"
+        },
+        {
+          "key": "v4_0",
+          "label": "v4.0"
+        },
+        {
+          "key": "performance_ergonomie",
+          "label": "Performance / Ergonomie"
+        },
+        {
+          "key": "robustesse_en_conditions_d_grad_es_qualit_d_image_faible_stabilit_du_module_de_scan",
+          "label": "Robustesse en conditions dégradées (qualité d'image faible). Stabilité du module de scan"
+        },
+        {
+          "key": "ok",
+          "label": "OK"
+        },
+        {
+          "key": "non",
+          "label": "Non"
+        },
+        {
+          "key": "stabilit_confirm_e_aucun_crash_et_temps_de_r_ponse_acceptable",
+          "label": "Stabilité confirmée. Aucun crash et temps de réponse acceptable."
+        },
+        {
+          "key": "support_clients_expert_fraude",
+          "label": "Support Clients Expert Fraude"
+        },
+        {
+          "key": "en_production_stable",
+          "label": "En production stable"
+        },
+        {
+          "key": "conforme",
+          "label": "🟢 Conforme"
+        },
+        {
+          "key": "taux_de_disponibilit_cible",
+          "label": "Taux de disponibilité cible"
+        },
+        {
+          "key": "0_999",
+          "label": "0.999"
+        },
+        {
+          "key": "param_tre",
+          "label": "Paramètre"
+        },
+        {
+          "key": "comment_le_mettre_jour",
+          "label": "Comment le mettre à jour"
+        },
+        {
+          "key": "indicateur",
+          "label": "Indicateur"
+        },
+        {
+          "key": "interpr_tation",
+          "label": "Interprétation"
+        },
+        {
+          "key": "formule_source",
+          "label": "Formule/Source"
+        }
+      ]
+    },
+    {
+      "id": "section_15_13_partenariats_locaux",
+      "name": "13-Partenariats locaux",
+      "rowCountRaw": 53,
+      "fields": [
+        {
+          "key": "partenaire",
+          "label": "Partenaire"
+        },
+        {
+          "key": "nom_contact",
+          "label": "Nom contact"
+        },
+        {
+          "key": "pr_nom_contact",
+          "label": "Prénom contact"
+        },
+        {
+          "key": "type_asso_collectivit",
+          "label": "Type (asso/collectivité)"
+        },
+        {
+          "key": "projet",
+          "label": "Projet"
+        },
+        {
+          "key": "date_d_but",
+          "label": "Date début"
+        },
+        {
+          "key": "date_fin",
+          "label": "Date fin"
+        },
+        {
+          "key": "preuves",
+          "label": "Preuves"
+        }
+      ]
+    },
+    {
+      "id": "section_16_14_impact_communaut",
+      "name": "14-Impact communauté",
+      "rowCountRaw": 509,
+      "fields": [
+        {
+          "key": "date",
+          "label": "Date"
+        },
+        {
+          "key": "d_but",
+          "label": "Début"
+        },
+        {
+          "key": "fin",
+          "label": "Fin"
+        },
+        {
+          "key": "sujet",
+          "label": "Sujet"
+        },
+        {
+          "key": "cat_gories",
+          "label": "Catégories"
+        },
+        {
+          "key": "ppi_ppe",
+          "label": "PPI / PPE"
+        },
+        {
+          "key": "organisateur",
+          "label": "Organisateur"
+        },
+        {
+          "key": "participants",
+          "label": "Participants"
+        },
+        {
+          "key": "participants_obligatoires",
+          "label": "Participants (obligatoires)"
+        }
+      ]
+    },
+    {
+      "id": "section_17_15_parties_prenantes",
+      "name": "15-Parties prenantes",
+      "rowCountRaw": 132,
+      "fields": [
+        {
+          "key": "clients_resocom",
+          "label": "CLIENTS RESOCOM"
+        },
+        {
+          "key": "fournisseurs",
+          "label": "FOURNISSEURS"
+        },
+        {
+          "key": "victimes",
+          "label": "VICTIMES"
+        },
+        {
+          "key": "partenaire_d_affaires",
+          "label": "PARTENAIRE D'AFFAIRES"
+        },
+        {
+          "key": "pouvoirs_publics",
+          "label": "POUVOIRS PUBLICS"
+        },
+        {
+          "key": "experts_fraude",
+          "label": "EXPERTS FRAUDE"
+        },
+        {
+          "key": "associations",
+          "label": "ASSOCIATIONS"
+        },
+        {
+          "key": "fonctions_support",
+          "label": "FONCTIONS SUPPORT"
+        },
+        {
+          "key": "dirigeants",
+          "label": "DIRIGEANTS"
+        },
+        {
+          "key": "collaborateurs",
+          "label": "COLLABORATEURS"
+        },
+        {
+          "key": "ecoles",
+          "label": "ECOLES"
+        },
+        {
+          "key": "syndicats",
+          "label": "SYNDICATS"
+        },
+        {
+          "key": "type_de_partie_prenante",
+          "label": "Type de partie prenante"
+        },
+        {
+          "key": "attentes_rse_principales",
+          "label": "Attentes RSE principales"
+        },
+        {
+          "key": "enjeux_rse_associ_s",
+          "label": "Enjeux RSE associés"
+        },
+        {
+          "key": "niveau_d_influence",
+          "label": "Niveau d'influence"
+        },
+        {
+          "key": "niveau_d_int_r_t",
+          "label": "Niveau d'intérêt"
+        },
+        {
+          "key": "actions_prioritaires",
+          "label": "Actions prioritaires"
+        }
+      ]
+    },
+    {
+      "id": "section_18_16_risques_rse",
+      "name": "16-Risques RSE",
+      "rowCountRaw": 52,
+      "fields": [
+        {
+          "key": "risque_opportunit",
+          "label": "Risque/Opportunité"
+        },
+        {
+          "key": "cat_gorie",
+          "label": "Catégorie"
+        },
+        {
+          "key": "probabilit_1_5",
+          "label": "Probabilité (1-5)"
+        },
+        {
+          "key": "gravit_1_5",
+          "label": "Gravité (1-5)"
+        },
+        {
+          "key": "niveau_de_ma_trise_1_5",
+          "label": "Niveau de maîtrise (1-5)"
+        },
+        {
+          "key": "priorit",
+          "label": "Priorité"
+        },
+        {
+          "key": "statut",
+          "label": "Statut"
+        },
+        {
+          "key": "colonne1",
+          "label": "Colonne1"
+        }
+      ]
+    },
+    {
+      "id": "section_19_17_tableau_de_bord_rse",
+      "name": "17-Tableau de bord RSE",
+      "rowCountRaw": 95,
+      "fields": [
+        {
+          "key": "indicateur",
+          "label": "INDICATEUR"
+        },
+        {
+          "key": "valeur_2024",
+          "label": "VALEUR 2024"
+        },
+        {
+          "key": "valeur_2025",
+          "label": "VALEUR 2025"
+        },
+        {
+          "key": "volution",
+          "label": "ÉVOLUTION"
+        },
+        {
+          "key": "cible",
+          "label": "CIBLE"
+        },
+        {
+          "key": "source",
+          "label": "SOURCE"
+        }
+      ]
+    },
+    {
+      "id": "section_20_18_plan_action_pdca_score_mat",
+      "name": "18-Plan action PDCA+score Mat",
+      "rowCountRaw": 277,
+      "fields": [
+        {
+          "key": "chapitre_principal",
+          "label": "CHAPITRE PRINCIPAL"
+        },
+        {
+          "key": "sous_th_me_domaine_d_action",
+          "label": "SOUS-THÈME / DOMAINE D'ACTION"
+        },
+        {
+          "key": "plan_description",
+          "label": "PLAN - Description"
+        },
+        {
+          "key": "plan",
+          "label": "PLAN %"
+        },
+        {
+          "key": "commentaire",
+          "label": "Commentaire"
+        },
+        {
+          "key": "do_description",
+          "label": "DO - Description"
+        },
+        {
+          "key": "do",
+          "label": "DO %"
+        },
+        {
+          "key": "commentaire_2",
+          "label": "Commentaire"
+        },
+        {
+          "key": "check_description",
+          "label": "CHECK - Description"
+        },
+        {
+          "key": "check",
+          "label": "CHECK %"
+        },
+        {
+          "key": "commentaire_3",
+          "label": "Commentaire"
+        },
+        {
+          "key": "act_description",
+          "label": "ACT - Description"
+        },
+        {
+          "key": "act",
+          "label": "ACT %"
+        },
+        {
+          "key": "commentaire_4",
+          "label": "Commentaire"
+        }
+      ]
+    },
+    {
+      "id": "section_21_19_suivi_temps_rse",
+      "name": "19-Suivi_Temps_RSE",
+      "rowCountRaw": 34,
+      "fields": [
+        {
+          "key": "minutes",
+          "label": "Minutes"
+        },
+        {
+          "key": "temps",
+          "label": "% Temps"
+        },
+        {
+          "key": "heures",
+          "label": "Heures"
+        },
+        {
+          "key": "minutes_2",
+          "label": "Minutes"
+        },
+        {
+          "key": "temps_2",
+          "label": "% Temps"
+        },
+        {
+          "key": "heures_2",
+          "label": "Heures"
+        },
+        {
+          "key": "minutes_3",
+          "label": "Minutes"
+        },
+        {
+          "key": "temps_3",
+          "label": "% Temps"
+        },
+        {
+          "key": "heures_3",
+          "label": "Heures"
+        },
+        {
+          "key": "minutes_4",
+          "label": "Minutes"
+        },
+        {
+          "key": "temps_4",
+          "label": "% Temps"
+        },
+        {
+          "key": "heures_4",
+          "label": "Heures"
+        },
+        {
+          "key": "minutes_5",
+          "label": "Minutes"
+        },
+        {
+          "key": "temps_5",
+          "label": "% Temps"
+        },
+        {
+          "key": "heures_5",
+          "label": "Heures"
+        },
+        {
+          "key": "minutes_6",
+          "label": "Minutes"
+        },
+        {
+          "key": "temps_6",
+          "label": "% Temps"
+        },
+        {
+          "key": "heures_6",
+          "label": "Heures"
+        },
+        {
+          "key": "minutes_7",
+          "label": "Minutes"
+        },
+        {
+          "key": "temps_7",
+          "label": "% Temps"
+        },
+        {
+          "key": "heures_7",
+          "label": "Heures"
+        },
+        {
+          "key": "minutes_8",
+          "label": "Minutes"
+        },
+        {
+          "key": "temps_8",
+          "label": "% Temps"
+        },
+        {
+          "key": "heures_8",
+          "label": "Heures"
+        },
+        {
+          "key": "minutes_9",
+          "label": "Minutes"
+        },
+        {
+          "key": "temps_9",
+          "label": "% Temps"
+        },
+        {
+          "key": "heures_9",
+          "label": "Heures"
+        },
+        {
+          "key": "minutes_10",
+          "label": "Minutes"
+        },
+        {
+          "key": "temps_10",
+          "label": "% Temps"
+        },
+        {
+          "key": "heures_10",
+          "label": "Heures"
+        },
+        {
+          "key": "minutes_11",
+          "label": "Minutes"
+        },
+        {
+          "key": "temps_11",
+          "label": "% Temps"
+        },
+        {
+          "key": "heures_11",
+          "label": "Heures"
+        },
+        {
+          "key": "minutes_12",
+          "label": "Minutes"
+        },
+        {
+          "key": "temps_12",
+          "label": "% Temps"
+        },
+        {
+          "key": "heures_12",
+          "label": "Heures"
+        }
+      ]
+    },
+    {
+      "id": "section_22_20_networking_rse_2025",
+      "name": "20-Networking_RSE 2025",
+      "rowCountRaw": 1000,
+      "fields": [
+        {
+          "key": "entreprise",
+          "label": "Entreprise"
+        },
+        {
+          "key": "pr_nom",
+          "label": "Prénom"
+        },
+        {
+          "key": "nom",
+          "label": "Nom"
+        },
+        {
+          "key": "poste",
+          "label": "Poste"
+        },
+        {
+          "key": "num_ro",
+          "label": "Numéro"
+        },
+        {
+          "key": "mail",
+          "label": "Mail"
+        },
+        {
+          "key": "linkedin",
+          "label": "LinkedIn"
+        }
+      ]
+    },
+    {
+      "id": "section_23_21_engagement_rse_2024_2025",
+      "name": "21-Engagement RSE 2024-2025",
+      "rowCountRaw": 38,
+      "fields": [
+        {
+          "key": "activit_association",
+          "label": "Activité / Association"
+        },
+        {
+          "key": "budget",
+          "label": "Budget (€)"
+        },
+        {
+          "key": "temps_heures",
+          "label": "Temps (heures)"
+        },
+        {
+          "key": "temps_minutes",
+          "label": "Temps (minutes)"
+        },
+        {
+          "key": "activit_association_2",
+          "label": "Activité / Association"
+        },
+        {
+          "key": "budget_2",
+          "label": "Budget (€)"
+        },
+        {
+          "key": "temps_heures_2",
+          "label": "Temps (heures)"
+        },
+        {
+          "key": "temps_minutes_2",
+          "label": "Temps (minutes)"
+        }
+      ]
+    },
+    {
+      "id": "section_24_kpi_call_mail_2026",
+      "name": "KPI CALL_MAIL 2026",
+      "rowCountRaw": 91,
+      "fields": [
+        {
+          "key": "mois",
+          "label": "Mois"
+        },
+        {
+          "key": "service",
+          "label": "Service"
+        },
+        {
+          "key": "appels_entrants",
+          "label": "Appels\nEntrants"
+        },
+        {
+          "key": "appels_sortants",
+          "label": "Appels\nSortants"
+        },
+        {
+          "key": "mails_entrants",
+          "label": "Mails\nEntrants"
+        },
+        {
+          "key": "mails_sortants",
+          "label": "Mails\nSortants"
+        },
+        {
+          "key": "service_2",
+          "label": "Service"
+        },
+        {
+          "key": "appels_entrants_2",
+          "label": "Appels\nEntrants"
+        },
+        {
+          "key": "appels_sortants_2",
+          "label": "Appels\nSortants"
+        },
+        {
+          "key": "mails_entrants_2",
+          "label": "Mails\nEntrants"
+        },
+        {
+          "key": "mails_sortants_2",
+          "label": "Mails\nSortants"
+        },
+        {
+          "key": "total_appels",
+          "label": "Total\nAppels"
+        },
+        {
+          "key": "total_mails",
+          "label": "Total\nMails"
+        },
+        {
+          "key": "total_g_n_ral",
+          "label": "TOTAL\nGÉNÉRAL"
+        }
+      ]
+    },
+    {
+      "id": "section_25_odd",
+      "name": "ODD",
+      "rowCountRaw": 74,
+      "fields": [
+        {
+          "key": "value",
+          "label": "#VALUE!"
+        },
+        {
+          "key": "pas_de_pauvret_liminer_la_pauvret_sous_toutes_ses_formes_et_partout_dans_le_monde",
+          "label": "Pas de pauvreté : Éliminer la pauvreté sous toutes ses formes et partout dans le monde."
+        },
+        {
+          "key": "odd_1",
+          "label": "ODD 1"
+        },
+        {
+          "key": "2",
+          "label": "2"
+        },
+        {
+          "key": "1_3245033112582781e_2",
+          "label": "1.3245033112582781E-2"
+        }
+      ]
+    }
+  ]
+}
